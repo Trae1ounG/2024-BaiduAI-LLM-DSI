@@ -1,0 +1,4 @@
+work/data/fusai_cleaned_ollama_all.json filter=lfs diff=lfs merge=lfs -text
+work/data/fusai_core_terms_to_query.json filter=lfs diff=lfs merge=lfs -text
+work/data/fusai_query.json filter=lfs diff=lfs merge=lfs -text
+work/data/fusai_cleaned_ollama_1.json filter=lfs diff=lfs merge=lfs -text
