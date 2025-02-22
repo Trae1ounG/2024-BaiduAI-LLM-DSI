@@ -22,7 +22,8 @@ $\mathrm{CRR@}K=\frac{\sum_{a\in(R_k\cap C)}\mathrm{Clicks}(a)}{\sum_{a\in C}\ma
 * Clicks(a)表示广告 aa 被点击的次数。
 
 策略效果同时评估Recall@5和Recall@10，加权打分如下：
-$score_{recall}=CRR@5*0.6+CRR@10*0.4$
+
+$score_{recall}=CRR@5\times0.6+CRR@10\times0.4$
 
 **推理效率评估**： 参赛者提交inference脚本后，会通过统计inference脚本的运行时间，来计算在测试集上单条样本的平均推理时间。推理效率打分采用如下公示，如果平均推理时间超过定义的时间限制，则推理效率得分为0。
 
