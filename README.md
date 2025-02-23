@@ -1,4 +1,4 @@
-# 2024-BaiduAI-LLM-DSI 🤠
+# 2024-BaiduAI-LLM-DSI 生成式检索/Differential Search Index🤠
 2024百度商业AI技术创新大赛赛道一：基于大模型的广告检索全国一等奖获奖方案
 比赛链接：https://aistudio.baidu.com/competition/detail/1188/0/task-definition
 # 赛题背景 🤩
